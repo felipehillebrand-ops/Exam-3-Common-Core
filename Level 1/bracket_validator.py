@@ -1,4 +1,5 @@
-# Prototype: Brackets
+Assignment name  : py_bracket_validator
+Expected files   : py_bracket_validator.py
 
 # Allowed functions: None
 
