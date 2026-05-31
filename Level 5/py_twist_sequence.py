@@ -23,7 +23,7 @@ Input:  twist_sequence([1,2,3,4], 0)
 Output: [1,2,3,4]
 
 Input:  twist_sequence([1,2,3], 5)
-Output: [3,2,1]
+Output: [2,3,1]
 
 Input:  twist_sequence([], 3)
 Output: []
