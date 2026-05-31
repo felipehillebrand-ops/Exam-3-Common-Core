@@ -15,6 +15,10 @@ The function must:
 Your function must be declared as follows:
 
 def mirror_matrix(matrix: list[list[int]]) -> list[list[int]]
+
+Examples:
+
+
 """
 
 
