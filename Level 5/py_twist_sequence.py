@@ -1,6 +1,6 @@
 """
-Assignment name: py_twist_sequence
-Expected files: py_twist_sequence.py
+Assignment name  : py_twist_sequence
+Expected files   : py_twist_sequence.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
