@@ -1,6 +1,6 @@
 """
-Assignment name: py_string_sculptor
-Expected files: py_string_sculptor.py
+Assignment name  : py_string_sculptor
+Expected files   : py_string_sculptor.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
