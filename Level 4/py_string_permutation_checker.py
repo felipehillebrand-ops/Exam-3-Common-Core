@@ -1,12 +1,21 @@
-# def string_permutation_checker(s1: str, s2:str) -> bool
+"""
+Assignment name  : py_string_permutation_checker
+Expected files   : py_sstring_permutation_checker.py
+Allowed functions: None
+--------------------------------------------------------------------------------
 
-# write a function that determines if two strings are permutation of each other. Two strings are permutation of each other if they contain the same characters with the same frequencies .
+write a function that determines if two strings are permutation of each other. 
+Two strings are permutation of each other if they contain the same characters with the same frequencies.
 
-# Check if both strings contain the same characters 
-# Count the character frequencies (case sensitive)
-# return True if they are permutations and False otherwise
-# Handle empty strings (they are permutations)
-# Consider whitespaces and punctions as regular charactares
+Check if both strings contain the same characters 
+Count the character frequencies (case sensitive)
+return True if they are permutations and False otherwise
+Handle empty strings (they are permutations)
+Consider whitespaces and punctions as regular charactares
+
+
+def string_permutation_checker(s1: str, s2: str) -> bool
+"""
 
 
 def string_permutation_checker(s1: str, s2: str) -> bool:
