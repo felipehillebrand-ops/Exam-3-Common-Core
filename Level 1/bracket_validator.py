@@ -1,3 +1,4 @@
+"""
 Assignment name  : py_bracket_validator
 Expected files   : py_bracket_validator.py
 Allowed functions: None
@@ -26,6 +27,7 @@ Allowed functions: None
 #
 # Input:  brackets("")
 # Output: True
+"""
 
 
 def bracket_validator(s: str) -> bool:
