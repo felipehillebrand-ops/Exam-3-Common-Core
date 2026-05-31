@@ -1,6 +1,6 @@
 """
-Assignment name: py_whisper_cipher
-Expected files: py_whisper_cipher.py
+Assignment name  : py_whisper_cipher
+Expected files   : py_whisper_cipher.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
