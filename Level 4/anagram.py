@@ -1,3 +1,9 @@
+"""
+Verifica se duas strings são anagramas (se contêm exatamente as mesmas letras),
+com a mesma quantidade, independentemente de maiúsculas/minúsculas e espaços.
+"""
+
+
 def Anagram(s1: str, s2: str) -> bool:
     new_s1 = s1.upper().replace(" ", "")
     new_s2 = s2.upper().replace(" ", "")
