@@ -4,9 +4,13 @@ Expected files   : py_mirror_matrix.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
-Inverte a ordem dos elementos de cada linha de uma matriz.
-A função percorre a matriz e retorna uma nova matriz
-com cada linha em ordem reversa.
+Given a 2D matrix `s` (list of lists), return a new matrix where
+the order of elements is completely reversed.
+
+The function must:
+    -> Reverse the entire matrix as if it were flattened.
+    -> Preserve the original dimensions of the matrix.
+    -> Return a new matrix with elements in reversed order.
 
 Your function must be declared as follows:
 
