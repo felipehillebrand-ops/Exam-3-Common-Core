@@ -1,7 +1,14 @@
 """
+Assignment name  : py_mirror_matrix
+Expected files   : py_mirror_matrix.py
+Allowed functions: None
+--------------------------------------------------------------------------------
+
 Inverte a ordem dos elementos de cada linha de uma matriz.
 A função percorre a matriz e retorna uma nova matriz
 com cada linha em ordem reversa.
+
+def mirror_matrix(matrix: list[list[int]]) -> list[list[int]]
 """
 
 
