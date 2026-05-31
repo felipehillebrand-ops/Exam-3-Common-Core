@@ -6,7 +6,7 @@ Allowed functions: None
 Write a function that rotates an array to the right by k positions.
 Rotating right by k means the last k elements move to the front.
 
-def py_twist_sequence(arr: list[int], k: int) -> list[int]:
+def twist_sequence(arr: list[int], k: int) -> list[int]:
 
 Input:  twist_sequence([1,2,3,4,5], 2)
 Output: [4,5,1,2,3]
