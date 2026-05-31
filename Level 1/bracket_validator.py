@@ -11,6 +11,8 @@ Allowed brackets: (), [], {}
 
 def bracket_validator(s: str) -> bool:
 
+Examples:
+
 Input:  brackets("()")
 Output: True
 
