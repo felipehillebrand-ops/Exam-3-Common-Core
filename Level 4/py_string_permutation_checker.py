@@ -7,11 +7,11 @@ Allowed functions: None
 Write a function that determines if two strings are permutation of each other. 
 Two strings are permutation of each other if they contain the same characters with the same frequencies.
 
-Check if both strings contain the same characters 
-Count the character frequencies (case sensitive)
-return True if they are permutations and False otherwise
-Handle empty strings (they are permutations)
-Consider whitespaces and punctions as regular charactares
+- Check if both strings contain the same characters 
+- Count the character frequencies (case sensitive)
+- Return True if they are permutations and False otherwise
+- Handle empty strings (they are permutations)
+- Consider whitespaces and punctions as regular charactares
 
 Your function must be declared as follows:
 
