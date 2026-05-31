@@ -4,9 +4,12 @@ Expected files   : py_string_sculptor.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
-Write a function that transforms a string by alternating the case of alphabetic characters only. Non-alphabetic characters remain unchanged and are ignored for the purpose of alternation. The first alphabetic character should be lowercase, the second uppercase, the third lowercase, and so on.
+Write a function that transforms a string by alternating the case of alphabetic characters only. 
+Non-alphabetic characters remain unchanged and are ignored for the purpose of alternation. 
+The first alphabetic character should be lowercase, the second uppercase, the third lowercase, and so on.
 
 Your function must be declared as follows:
+
 def string_sculptor(text: str) -> str:
 
 Examples:
