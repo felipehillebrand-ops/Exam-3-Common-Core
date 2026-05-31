@@ -1,7 +1,9 @@
-Verifica se a string 'small' é uma subsequência da string 'big' .n
+"""
+Verifica se a string 'small' é uma subsequência da string 'big'.
 Uma subsequência significa que todos os caracteres de 'small' aparecem em 'big' 
 na mesma ordem, mas não precisam estar necessariamente juntos.
-    
+"""
+
 
 def hidenp(small, big):
     it = iter(big)
