@@ -51,4 +51,12 @@ def bracket_validator(s: str) -> bool:
     return len(stack) == 0
 
 
-print(bracket_validator("([](fdsdfds){})"))
+print(py_bracket_validator("()"))  # True
+print(py_bracket_validator("()[]{}"))  # True
+print(py_bracket_validator("(]"))  # False
+print(py_bracket_validator("([)]"))  # False
+print(py_bracket_validator("{[]}"))  # True
+print(py_bracket_validator("hello(world)[test]{code}"))  # True
+print(py_bracket_validator("((()))"))  # True
+print(py_bracket_validator("((())"))  # False
+print(py_bracket_validator(""))  # True
