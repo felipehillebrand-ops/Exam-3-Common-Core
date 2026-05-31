@@ -2,6 +2,7 @@
 Assignment name: py_shadow_merge
 Expected files: py_shadow_merge.py
 Allowed functions: None
+--------------------------------------------------------------------------------
 
 Write a function that merges two sorted lists into one sorted list.
 
