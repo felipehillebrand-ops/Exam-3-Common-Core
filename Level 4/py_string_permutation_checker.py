@@ -4,7 +4,7 @@ Expected files   : py_sstring_permutation_checker.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
-write a function that determines if two strings are permutation of each other. 
+Write a function that determines if two strings are permutation of each other. 
 Two strings are permutation of each other if they contain the same characters with the same frequencies.
 
 Check if both strings contain the same characters 
@@ -13,6 +13,7 @@ return True if they are permutations and False otherwise
 Handle empty strings (they are permutations)
 Consider whitespaces and punctions as regular charactares
 
+Your function must be declared as follows:
 
 def string_permutation_checker(s1: str, s2: str) -> bool
 """
