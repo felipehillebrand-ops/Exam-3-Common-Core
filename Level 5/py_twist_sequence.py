@@ -9,6 +9,8 @@ Rotating right by k means the last k elements move to the front.
 
 def twist_sequence(arr: list[int], k: int) -> list[int]:
 
+Examples:
+
 Input:  twist_sequence([1,2,3,4,5], 2)
 Output: [4,5,1,2,3]
 
