@@ -1,5 +1,5 @@
-def reverseMatrix(s):
-    return [e[::-1] for e in s]
+def mirror_matrix(matrix: list[list[int]]) -> list[list[int]]:
+    return [e[::-1] for e in matrix]
 
 
 input = [
@@ -7,4 +7,4 @@ input = [
         [4, 5, 6],
         [7, 8, 9]
 ]
-print(reverseMatrix(input))
+print(mirror_matrix(input))
