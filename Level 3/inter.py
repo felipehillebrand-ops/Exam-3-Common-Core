@@ -1,3 +1,10 @@
+"""
+Retorna uma string com os caracteres que aparecem em ambas as strings,
+sem repetições.
+Os caracteres são adicionados na ordem em que aparecem na primeira string.
+"""
+
+
 def inter(s1: str, s2: str) -> str:
     res = ""
 
