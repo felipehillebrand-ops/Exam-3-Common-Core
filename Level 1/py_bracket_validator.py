@@ -32,6 +32,15 @@ Output: False
 Input:  brackets("{[]}")
 Output: True
 
+Input:  brackets("hello(world)[test]{code}")
+Output: True
+
+Input:  brackets("((()))")
+Output: True
+
+Input:  brackets("((())")
+Output: False
+
 Input:  brackets("")
 Output: True
 """
