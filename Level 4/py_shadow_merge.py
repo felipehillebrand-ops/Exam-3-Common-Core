@@ -1,6 +1,6 @@
 """
-Assignment name: py_shadow_merge
-Expected files: py_shadow_merge.py
+Assignment name  : py_shadow_merge
+Expected files   : py_shadow_merge.py
 Allowed functions: None
 --------------------------------------------------------------------------------
 
