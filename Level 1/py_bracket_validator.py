@@ -12,6 +12,7 @@ in the correct order.
 Allowed brackets: (), [], {}
 
 Your function must be declared as follows:
+
 def bracket_validator(s: str) -> bool:
 
 Examples:
