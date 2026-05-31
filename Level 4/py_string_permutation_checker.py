@@ -13,9 +13,11 @@ def string_permutation_checker(s1: str, s2: str) -> bool:
     return sorted(s1) == sorted(s2)
 
 
-print(string_permutation_checker("abc", "bca"))
-print(string_permutation_checker("abc", "def"))
-print(string_permutation_checker("", ""))
-print(string_permutation_checker("a", ""))
-print(string_permutation_checker("a", "a"))
-print(string_permutation_checker("Test", "tste"))
+print(string_permutation_checker("abc", "bca"))                 # True
+print(string_permutation_checker("abc", "def"))                 # False
+print(string_permutation_checker("listen", "silent"))           # True
+print(string_permutation_checker("hello", "bello"))             # False
+print(string_permutation_checker("", ""))                       # True
+print(string_permutation_checker("a", ""))                      # False
+print(string_permutation_checker("Abc", "abc"))                 # False
+print(string_permutation_checker("a gentleman", "elegant man")) # True
