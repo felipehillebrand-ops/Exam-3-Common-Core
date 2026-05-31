@@ -1,3 +1,30 @@
+# Prototype: Brackets
+# Allowed functions: None
+# Write a function that checks if the brackets in a string are valid.
+# A string is valid if every opening bracket has a matching closing bracket
+# in the correct order.
+# Allowed brackets: (), [], {}
+# def bracket_validator(s: str) -> bool:
+#
+# Input:  brackets("()")
+# Output: True
+#
+# Input:  brackets("()[]{}")
+# Output: True
+#
+# Input:  brackets("(]")
+# Output: False
+#
+# Input:  brackets("([)]")
+# Output: False
+#
+# Input:  brackets("{[]}")
+# Output: True
+#
+# Input:  brackets("")
+# Output: True
+
+
 def bracket_validator(s: str) -> bool:
     left = ['(', '[', '{']
     right = [')', ']', '}']
