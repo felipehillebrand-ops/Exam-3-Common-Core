@@ -16,6 +16,10 @@ Two strings are permutation of each other if they contain the same characters wi
 Your function must be declared as follows:
 
 def string_permutation_checker(s1: str, s2: str) -> bool
+
+Examples:
+
+
 """
 
 
