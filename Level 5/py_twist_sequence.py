@@ -2,6 +2,7 @@
 Assignment name: py_twist_sequence
 Expected files: py_twist_sequence.py
 Allowed functions: None
+--------------------------------------------------------------------------------
 
 Write a function that rotates an array to the right by k positions.
 Rotating right by k means the last k elements move to the front.
